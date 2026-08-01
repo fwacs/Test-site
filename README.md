@@ -1,4 +1,4 @@
-# my-first-site
+# Test-site
 
 My first published website — a single-page personal site built with plain HTML and CSS, versioned with git and hosted on GitHub Pages.
 
